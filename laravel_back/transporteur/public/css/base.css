@@ -1,0 +1,24 @@
+#bar{
+    color: aliceblue;
+    font-weight: bold;
+}
+#list{
+    color: #333333;
+    border: none;
+    margin-left: 20px;
+}
+a:hover{
+    background-color:#17a2b8;
+}
+i{
+    text-align: center;
+    margin-left: 10px;
+    color: aliceblue;
+}
+#menu{
+    height: 75%;
+    height: 100vh;
+    width: 100%;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
